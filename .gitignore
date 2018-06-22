@@ -1,0 +1,14 @@
+# VS code cache
+.vscode/
+.launch.json
+
+# product
+dist
+
+# package
+node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
