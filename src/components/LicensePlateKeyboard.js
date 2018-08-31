@@ -29,7 +29,6 @@ export default class LicensePlateKeyboard extends Component{
             }
             this.setState({...setNew})
         }
-        console.log(this.state.position);
     }
 
     switch = () => {
